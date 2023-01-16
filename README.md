@@ -30,4 +30,4 @@ A candidate should produce a [Jupyter Notebook with the solution](Blockchain%20H
 
 Blockchain.com generally expects candidates to spend around 3 hours on the task, depending on their availability.
 
-Please note that I, the author, spent ~8 hours on the attached solution. However, I spent most of the time on notes/descriptions and their proper (and the best possible) English translation.
+Please note that I, the author of this solution (not the whole TakeHome), spent ~8 hours on the attached solution. However, I spent most of the time on notes/descriptions and their proper (and the best possible) English translation.
